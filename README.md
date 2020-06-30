@@ -1,3 +1,3 @@
 
 # Quizzler
-Quiz Flutter App
+Quiz Flutter App for implementing OOPs fundamentals
